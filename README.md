@@ -4,9 +4,18 @@
 
 #### Conhecimentos iniciais
 
-- Python (biblioteca Pandas) 
+- Python
 - Jupyter Notebook (ou Lab)
-- Estatística Descritiva
+- Estatística Descritiva 
+
+#### Python (bibliotecas)
+
+- Numpy
+- Pandas (Manipulação de dados)
+- Scipy
+- Matplotlib (Visualização)
+- Seaborn (Visualização)
+- Scikit-learn
 
 #### Livros de apoio
 
