@@ -16,7 +16,7 @@
 
 <a href="http://archive.ics.uci.edu/ml/index.php">UCI Machine Learning Repository</a>
 
-<a href="https://www.kaggle.com/datasets">UCI Machine Learning Datasets | Kaggle</a>
+<a href="https://www.kaggle.com/datasets">Datasets | Kaggle</a>
 
 
 #### Outros links
