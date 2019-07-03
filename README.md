@@ -19,3 +19,5 @@
 #### Outros links
 
 <a href="https://github.com/leportella/datascience-pizza">Guia do Cientista de Dados das Galáxias</a>
+
+<a href="https://github.com/rafaelaprm/pydata_minicurso_pandas">Introdução à Análise de Dados com Pandas</a>
